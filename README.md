@@ -1,8 +1,9 @@
-* Sales Data Analysis and Predictive Modeling
-* Project Overview
+Sales Data Analysis and Predictive Modeling
+
+Project Overview
 During my internship at Cognifyz, I worked on a comprehensive project focused on sales data analysis and predictive modeling. The goal was to analyze historical sales data to forecast future sales trends and provide actionable insights to support business decision-making. This project involved a series of tasks from data cleaning to model deployment, showcasing my skills in data analysis, machine learning, and visualization.
 
-* Tasks Completed
+Tasks Completed
 * Data Collection and Cleaning
 
 * Gathered sales data from various sources.
@@ -30,6 +31,7 @@ Documentation and Reporting
 Prepared detailed reports to communicate insights and recommendations to stakeholders.
 
 * Technologies Used
+
 Python
 Pandas
 NumPy
