@@ -30,8 +30,7 @@ Documentation and Reporting
 * Documented the analysis process, methodologies, and findings.
 Prepared detailed reports to communicate insights and recommendations to stakeholders.
 
-* Technologies Used
-
+Technologies Used
 Python
 Pandas
 NumPy
