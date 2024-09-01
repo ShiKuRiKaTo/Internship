@@ -37,4 +37,3 @@ NumPy
 Scikit-learn
 Matplotlib
 Seaborn
-SQL
